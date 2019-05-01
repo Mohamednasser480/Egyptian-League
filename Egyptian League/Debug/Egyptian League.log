@@ -1,0 +1,15 @@
+﻿  Liga.cpp
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(32): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(32): warning C4309: '=': truncation of constant value
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(169): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(413): warning C4018: '<': signed/unsigned mismatch
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(414): warning C4018: '<': signed/unsigned mismatch
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(416): warning C4018: '<': signed/unsigned mismatch
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(641): warning C4018: '<': signed/unsigned mismatch
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(648): warning C4018: '<': signed/unsigned mismatch
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(1036): warning C4018: '<': signed/unsigned mismatch
+c:\users\nasser_\documents\visual studio 2015\projects\egyptian league\egyptian league\liga.cpp(1060): warning C4018: '<': signed/unsigned mismatch
+  Egyptian League.cpp
+  Generating Code...
+  Egyptian League.vcxproj -> c:\users\nasser_\documents\visual studio 2015\Projects\Egyptian League\Debug\Egyptian League.exe
+  Egyptian League.vcxproj -> c:\users\nasser_\documents\visual studio 2015\Projects\Egyptian League\Debug\Egyptian League.pdb (Partial PDB)
